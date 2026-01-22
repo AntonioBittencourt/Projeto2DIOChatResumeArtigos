@@ -38,3 +38,4 @@ Por último é feita a criação do agente de IA a partir do projeto implementad
 
 # Conclusão
 Percebemos que o Azure AI Foundry faz um bom trabalho ao ser treinado em artigos e resumi-los. Agentes criados como esse podem ajudar um estudante a organizar e entender informações pertinentes ao seu TCC, além de poder ser usado em ambiente de trabalho resumindo regulamentos, relatórios ou qualquer outra fonte de informação em PDF. A implementação de agentes com AI Foundry foi bastante simplificada nas últimas versões, permitindo que a complexidade fique escondida, sendo acessível a usuários mais avançados e facilitando o uso por usuários iniciantes ou intermediários.
+
