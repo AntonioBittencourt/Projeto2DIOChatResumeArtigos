@@ -16,7 +16,7 @@ Conforme sugerido, foi usada a plataforma AI Foundry da Azure. A implementação
 
 A seguir é feita a anexação dos arquivos gerados por IA. Como presente na figura abaixo.
 
-![Artigos Anexados](imagens/Projeto2DIOArtigosAnexados.jpg)
+![Artigos Anexados](imagens/Projeto2DIOArtigosAnexadoz.jpg)
 
 Com a anexação dos arquivos é feita uma pergunta com base no conteúdo dos artigos.
 
