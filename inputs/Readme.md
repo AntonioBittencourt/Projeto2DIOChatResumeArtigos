@@ -12,7 +12,7 @@ Conforme sugerido, foi usada a plataforma AI Foundry da Azure. A implementação
 
 ![Instruçõaes do Foundry](imagens/Projeto2DIOInstrucoes.jpg)
 ![Primeiro Prompt de Inteação](imagens/Projeto2DIOtesteprompt.jpg)
-![Primeiro Prompt de Inteação Parte 2](imagens/Projeto2DIOtesteprompt2.jpg)
+![Primeiro Prompt de Inteação Parte 2](imagens/Projeto2DIOtesteprompt2melhorimagem.jpg)
 
 A seguir é feita a anexação dos arquivos gerados por IA. Como presente na figura abaixo.
 
