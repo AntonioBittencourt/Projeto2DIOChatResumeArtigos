@@ -10,7 +10,7 @@
 
 Conforme sugerido, foi usada a plataforma AI Foundry da Azure. A implementação acabou sendo mais simples do que o exibido no tutorial da Azure, devido as melhorias implementadas nas últimas versões Nâo é mais necessário criar AI Hubs, AI Search ou gerenciar o arquivo vetorizado, apenas o projeto. A complexidade da implementação é mais escondida, simplificando o processo de criação. Primeiramente criamos os artigos fictícios que são usados para teste. Eles foram gerados pelo Copilot e estão presentes neste Github na pasta artigos. Depois entramos no Playground do AI Foundry, onde é feito o deploy dos modelos Gpt 5.1 Chat e EmbeddedVectors3-LArge(transforma de texto para vetor e vice-versa), e colocamos as instruções para fornescer um contexto. Estas instruções estão presentes na figura 1. Antes mesmo de anexar os arquivos testamos a capacidade do chat de fornescer respostas por meio de conhecimento adquirido por outras fontes. Perguntamos a ele sobre SNA(Social Network Analysis) e a definição de engenharia de software. Esta interação está presente na segunda figura.
 
-![Instruçõaes do Foundry](imagens/Projeto2DIOInstrucoes.jpg)
+![Instruçõaes do Foundry](imagens/Projeto2DIOInstrucoes.jpeg)
 ![Primeiro Prompt de Inteação](imagens/Projeto2DIOtesteprompt.jpg)
 ![Primeiro Prompt de Inteação Parte 2](imagens/Projeto2DIOtesteprompt2melhorimagem.jpg)
 
